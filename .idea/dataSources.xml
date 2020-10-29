@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PostgreSQL - inuocazb@rosie.db.elephantsql.com" uuid="0925a1e6-7ebf-4f45-8f11-d2ea1e64179d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rosie.db.elephantsql.com:5432/inuocazb</jdbc-url>
+    </data-source>
+  </component>
+</project>
